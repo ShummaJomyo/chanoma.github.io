@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>山脇 正雄 | Shumma Jomyo</title>
+    <link>/author/%E5%B1%B1%E8%84%87-%E6%AD%A3%E9%9B%84/</link>
+      <atom:link href="/author/%E5%B1%B1%E8%84%87-%E6%AD%A3%E9%9B%84/index.xml" rel="self" type="application/rss+xml" />
+    <description>山脇 正雄</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>山脇 正雄</title>
+      <link>/author/%E5%B1%B1%E8%84%87-%E6%AD%A3%E9%9B%84/</link>
+    </image>
+    
+    <item>
+      <title>“運動と食事による行動変容のストレス研究-マラソン完走前後の心と体の変化を計測する-”</title>
+      <link>/publication/j-nsm2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/j-nsm2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“スマートフォンアプリ開発による行動変容支援”</title>
+      <link>/publication/conf-chusei2020/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-chusei2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

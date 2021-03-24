@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>角田 知己 | Shumma Jomyo</title>
+    <link>/author/%E8%A7%92%E7%94%B0-%E7%9F%A5%E5%B7%B1/</link>
+      <atom:link href="/author/%E8%A7%92%E7%94%B0-%E7%9F%A5%E5%B7%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>角田 知己</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>角田 知己</title>
+      <link>/author/%E8%A7%92%E7%94%B0-%E7%9F%A5%E5%B7%B1/</link>
+    </image>
+    
+    <item>
+      <title>“生分解圧電素子を用いた5指タップ動作識別法の提案”</title>
+      <link>/publication/conf-si2020/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-si2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

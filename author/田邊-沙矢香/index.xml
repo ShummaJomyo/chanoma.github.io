@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>田邊 沙矢香 | Shumma Jomyo</title>
+    <link>/author/%E7%94%B0%E9%82%8A-%E6%B2%99%E7%9F%A2%E9%A6%99/</link>
+      <atom:link href="/author/%E7%94%B0%E9%82%8A-%E6%B2%99%E7%9F%A2%E9%A6%99/index.xml" rel="self" type="application/rss+xml" />
+    <description>田邊 沙矢香</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>田邊 沙矢香</title>
+      <link>/author/%E7%94%B0%E9%82%8A-%E6%B2%99%E7%9F%A2%E9%A6%99/</link>
+    </image>
+    
+    <item>
+      <title>“運動と食事による行動変容のストレス研究-マラソン完走前後の心と体の変化を計測する-”</title>
+      <link>/publication/j-nsm2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/j-nsm2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

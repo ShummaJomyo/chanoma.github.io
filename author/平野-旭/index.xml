@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>平野 旭 | Shumma Jomyo</title>
+    <link>/author/%E5%B9%B3%E9%87%8E-%E6%97%AD/</link>
+      <atom:link href="/author/%E5%B9%B3%E9%87%8E-%E6%97%AD/index.xml" rel="self" type="application/rss+xml" />
+    <description>平野 旭</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>平野 旭</title>
+      <link>/author/%E5%B9%B3%E9%87%8E-%E6%97%AD/</link>
+    </image>
+    
+    <item>
+      <title>“運動と食事による行動変容のストレス研究-マラソン完走前後の心と体の変化を計測する-”</title>
+      <link>/publication/j-nsm2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/j-nsm2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“SimulinkとStateflowを用いたプログラミング導入教育の効果”</title>
+      <link>/publication/j-jsee2020/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/j-jsee2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“スマートフォンアプリ開発による行動変容支援”</title>
+      <link>/publication/conf-chusei2020/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-chusei2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>メダカの呼吸波を利用した水の毒性検出アルゴリズムの提案</title>
+      <link>/publication/conf-ieej2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-ieej2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>メダカの呼吸波計測にむけた電極配置の提案</title>
+      <link>/publication/conf-rentai2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-rentai2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
